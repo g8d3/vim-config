@@ -1,3 +1,7 @@
-# vim config
+# Vim config
 
-vim config for spanish keyboard.
+Vim config for spanish keyboard.
+
+1. Copy .vimrc to home folder
+2. Install pathogen
+3. Pending, complete script to allow installation, or switch to Vundle.
