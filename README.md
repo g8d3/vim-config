@@ -1,3 +1,3 @@
-# vimrc
+# vim config
 
-vimrc for spanish keyboard.
+vim config for spanish keyboard.
