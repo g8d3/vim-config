@@ -1,4 +1,6 @@
 # install pathogen first
+# this script lists installed plugins
+
 cd ~/.vim/bundle
 
 repos=''
